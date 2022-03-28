@@ -1,0 +1,20 @@
+{
+	"plugin-data":
+	{
+		"name": "CMSWB Affiliate",
+		"description": "Ein Affiliate und CTA Modul, das vier zufällige Einblendungen am Hook <kbd>pageBegin</kbd> machen kann."
+	},
+	"start": 1,
+	"end": 4,
+
+	"placeholder-bild": "Bildquelle eingeben (http//www..., PNG, JPG, WebP,...)",
+	"placeholder-link": "Link-Ziel eingeben, zu dem der Besucher verzweigt",
+	"placeholder-titel": "Titel des Produktes, Beitrag oder CTA eingeben",
+	"placeholder-beschreibung": "Beschreiben Sie den Link, Affiliate oder CTA mit ausführlichem Text",
+	"placeholder-button": "Text für den Button",
+	"placeholder-start": "1",
+	"placeholder-end": "4",
+	
+	"tipp": "Geben Sie eine oder mehrere, durch Leerzeichen getrennte, Color-Klassen aus Bootstrap oder Ihrem eigenen CSS ein z.B. btn-danger, btn-secondary, btn-success,...",
+	"tipp-range": "Sie können auch einen zusammenhängenden Bereich von 2 bis 3 eintragen, um Affiliate-Link 1 und 4 von der Anzeige auszuschließen"
+}
